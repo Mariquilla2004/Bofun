@@ -1,0 +1,19 @@
+h1 
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: center;
+}
+.card-body
+{
+    width: 6cm;
+}
+.card-img-top
+{
+    height: 7.5cm;
+    width: 6cm;
+}
+.mr-3
+{
+    width: 5cm;
+    height: 5cm;
+}
