@@ -1,5 +1,64 @@
-h1 
-{
-    text-align-last: center;
-    font-family: 'Times New Roman', Times, serif;
+.jumbotron {
+
+   background-color:aquamarine
+    
+    }
+
+
+
+.card-img-top {
+
+width: 7,5cm;
+height: 8cm;
+
 }
+.display-4{
+
+font-size: 4cm;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.favs {
+
+font-family: 'Times New Roman', Times, serif;
+font-size: 3em;
+
+}
+
+.bofun {
+
+width: 3,5cm;
+height: 1cm;
+
+}
+
+.text {
+
+    text-align: center;
+    
+    }
+
+    .mr-3{
+
+        width: 5cm;
+        height: 5,5cm;
+        
+        }
+
+.Familia{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+    }
+
+#ac {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+
+    }
+
+#casa  {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+
+    }
